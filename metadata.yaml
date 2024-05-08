@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31333'
     url: http://www.gutenberg.org/2009/agents/31333
     wikipedia: https://en.wikipedia.org/wiki/Frank_R._Paul
+covers:
+- cover_type: archival
+  image_path: 73477-h/images/cover.jpg
 creator:
   author:
     agent_name: Orndorff, Frank
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '57090'
     url: http://www.gutenberg.org/2009/agents/57090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73477#The-terrors-of-the-upper-air
 gutenberg_issued: '2024-04-27'
 gutenberg_type: Text
 identifiers:
